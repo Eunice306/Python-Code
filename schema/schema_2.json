@@ -1,0 +1,46 @@
+{
+ "message": {
+  "user": {
+   "type": "array",
+   "tag": "",
+   "description": "",
+   "required": false
+  },
+  "time": {
+   "type": "integer",
+   "tag": "",
+   "description": "",
+   "required": false
+  },
+  "acl": {
+   "type": "enum",
+   "tag": "",
+   "description": "",
+   "required": false
+  },
+  "publicFeed": {
+   "type": "integer",
+   "tag": "",
+   "description": "",
+   "required": false
+  },
+  "internationalCountries": {
+   "type": "enum",
+   "tag": "",
+   "description": "",
+   "required": false
+  },
+  "topTraderFeed": {
+   "type": "integer",
+   "tag": "",
+   "description": "",
+   "required": false
+  }
+ },
+ "attributes": {
+  "type": "array",
+  "tag": "",
+  "description": "",
+  "required": false
+ }
+}
